@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The damosels tragedy: or, True love in distress. Being an account of a young man, who slighting a young maiden who had fix'd her love upon him, did thereby cause her to end her days in dispair by a dreadful dose of poyson. To the tune of, Charon, &amp;c. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02713</idno>
+            <idno type="STC">Wing D166C</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[66]</idno>
+            <idno type="EEBO-CITATION">99887091</idno>
+            <idno type="PROQUEST">ocm99887091</idno>
+            <idno type="VID">181816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181816)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The damosels tragedy: or, True love in distress. Being an account of a young man, who slighting a young maiden who had fix'd her love upon him, did thereby cause her to end her days in dispair by a dreadful dose of poyson. To the tune of, Charon, &amp;c. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[ohn]. Back, at the Black Boy on London-Bridge, near the Draw-Bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "You loyal lovers attend to my ditty ..."</note>
+                  <note>Place, date of publication, and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181816:1"/>
+            <!-- PDF PAGE 14 -->
+            <head>The DAMOSELS Tragedy: OR, <hi>True Love in Diſtreſs.</hi>
+            </head>
+            <argument>
+               <p>Being an account of a young Man, who Slighting a young Maiden who had fix'd her love upon him, did thereby cauſe her to end her days in Diſpair by a dreadful Doſe of <hi>Poyſon.</hi>
+               </p>
+            </argument>
+            <opener>To the Tune of, <hi>Charon,</hi> &amp;c.</opener>
+            <p>This may be Printed, <hi>R. P.</hi>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>YOu Loyal Lovers attend to my D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tty,</l>
+               <l>which with a ſorrowful heart I raiſe,</l>
+               <l>'Tis of a Damſel, the more is the pitty,</l>
+               <l>who with ſtrong Poyſon did end her days:</l>
+               <l>Fair <hi>Elinor</hi> this Laſs was named,</l>
+               <l>
+                  <hi>John</hi> the cauſe of all her Woe,</l>
+               <l>Sighing ſhe ſaid, tho' I here may be blamed,</l>
+               <l>
+                  <hi>No body knows what I undergo!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In my ſoft Breaſt is a ſecret Fire,</l>
+               <l>which by the power of Love increas'd,</l>
+               <l>Nothing but Death is my earneſt deſire,</l>
+               <l>hoping there by I ſhall be releaſt:</l>
+               <l>For I have loſt my deareſt Iewel,</l>
+               <l>this to my Grief, alas! I know,</l>
+               <l>My deareſt <hi>Johnny,</hi> O why now ſo Cruel!</l>
+               <l>
+                  <hi>you little think what I undergo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here do I languiſh, by you unlamented,</l>
+               <l>now my poor innocent heart's betray'd,</l>
+               <l>How can you any way here be contented,</l>
+               <l>when you have ruin'd a harmleſs Maid?</l>
+               <l>To me you have been moſt falſe-hearted,</l>
+               <l>proving my final overthrow,</l>
+               <l>Since from my preſence you have departed,</l>
+               <l>
+                  <hi>No body knows what I undergo!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Every Vein in my heart now does tingle,</l>
+               <l>while I in ſorrow am left alone,</l>
+               <l>Many ſad Sighs with my Tears I mingle,</l>
+               <l>while to the world here I make my moan:</l>
+               <l>O that I might but once behold him,</l>
+               <l>then would it Expiate my Woe,</l>
+               <l>But in my arms I ſhall never infold him,</l>
+               <l>
+                  <hi>No body knows what I undergo!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>down from her eyes the tears flow'd like a fountain</l>
+               <l>being ſurrounded with Care and Grief,</l>
+               <l>And tho' her ſorrows ſhe ſtill was recanting,</l>
+               <l>there was no Creature to yield Relief:</l>
+               <l>Many a bitter Sigh ſhe giving,</l>
+               <l>while her poor heart was ſunk full low,</l>
+               <l>Said ſhe, I here am a weary of Living,</l>
+               <l>
+                  <hi>No body knows what I undergo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In her ſtrange Fancy ran many a Notion,</l>
+               <l>before the paſſion of Love was paſt,</l>
+               <l>At length it was to prepare a ſad Pation,</l>
+               <l>the which bereav'd her of Life at laſt:</l>
+               <l>Then as in Torments ſhe lay Dying,</l>
+               <l>being oppreſt with Grief and Woe,</l>
+               <l>Wringing her hands like a Lover, and crying,</l>
+               <l>
+                  <hi>No body knows what I undergo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Farewel, farewel, to my deareſt for ever,</l>
+               <l>I muſt ſubmit to the hand of Fate,</l>
+               <l>If that you here would afford me your pitty,</l>
+               <l>now you would find it is far too late:</l>
+               <l>Then with thoſe words ſhe did Expire,</l>
+               <l>ſaying, to Dye I am afraid,</l>
+               <l>All her Relations and Friends that was nigh her,</l>
+               <l>wept for to hear the ſad moan ſhe made.</l>
+            </lg>
+            <lg>
+               <l>Here have I given a perfect Relation,</l>
+               <l>of a young Damſel that Dy'd you hear,</l>
+               <l>Through her falſe Lovers Diſſimulation,</l>
+               <l>who can forbear now to ſhed a Tear?</l>
+               <l>True Love abuſed it is ſuch a Tryal,</l>
+               <l>that there is few thorow it can Wade,</l>
+               <l>Therefore O young-men, now learn to be Loyal,</l>
+               <l>think of the Sorrowful End ſhe made.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Back,</hi> at the <hi>Black Boy</hi> on <hi>London-Bridge,</hi> near the <hi>Draw-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
